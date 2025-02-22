@@ -2,6 +2,12 @@
 
 Sistema de backend para agendamento de consultas médicas, desenvolvido com Node.js e MySQL.
 
+## 👨‍💻 Autor
+
+**Bruno Couto**
+- GitHub: [brunocouto](https://github.com/brunocouto)
+- Email: brunocoutoengenheirodesoftware@gmail.com
+
 ## Tecnologias Utilizadas
 
 - **Node.js** - Ambiente de execução JavaScript

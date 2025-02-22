@@ -2,6 +2,12 @@
 
 Sistema completo para agendamento de consultas médicas, com frontend em React e backend em Node.js.
 
+## 👨‍💻 Autor
+
+**Bruno Couto**
+- GitHub: [brunocouto](https://github.com/brunocouto)
+- Email: brunocoutoengenheirodesoftware@gmail.com
+
 ## 📋 Estrutura do Projeto
 
 O projeto está dividido em duas partes principais:
